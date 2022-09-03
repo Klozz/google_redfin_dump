@@ -1,0 +1,14 @@
+# redfin-user 13 TP1A.220624.014 8819323 release-keys
+- manufacturer: 
+- platform: lito
+- codename: redfin
+- flavor: redfin-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: 8819323
+- tags: release-keys
+- fingerprint: google/redfin/redfin:13/TP1A.220624.014/8819323:user/release-keys
+- is_ab: true
+- brand: google
+- branch: redfin-user-13-TP1A.220624.014-8819323-release-keys
+- repo: google_redfin_dump
